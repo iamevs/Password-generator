@@ -12,14 +12,16 @@ int size = sizeof(alphanum) - 1;
 
 int main()
 {
-	int length;
-	cout << "Enter the length of password : ";
-	cin >> length;
-	
-	srand(time(0));
-	for (int i = 0; i < length; i++)
-	{
-		cout << alphanum[rand() % ::size];
-	}
-	return 0;
+        //password length
+        int length;
+        cout << "Enter the length of password : ";
+        cin >> length;
+        srand(time(0));
+        cout << "\nThe generated password is : \n";
+        for (int i = 0; i < length; i++)
+        {
+                cout << alphanum[rand() % ::size];
+        }
+        cout << "\n\n";
+        return 0;
 }
