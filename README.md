@@ -1,4 +1,7 @@
 # Password-generator
+
+<i>  A CPP mini program </i> <br> 
+
 Random password generator using CPP.
 
 # code 
