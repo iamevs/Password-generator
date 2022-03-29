@@ -1,6 +1,14 @@
 # Password-generator
 Random password generator using CPP.
 
-<strong> Code </strong>
+# code 
 
-<img src = "https://raw.githubusercontent.com/iamevs/Password-generator/main/passgen_code.png" alt = "passgen"/>
+<img src = "https://raw.githubusercontent.com/iamevs/Password-generator/main/passgen_code.png" alt = "code"/>
+
+# Result
+
+<img src ="https://github.com/iamevs/Password-generator/blob/main/passgen_result.png" alt"result"/>
+
+Enter the length of password u need
+then copy your password
+njoy.......
