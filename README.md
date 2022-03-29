@@ -9,6 +9,6 @@ Random password generator using CPP.
 
 <img src ="https://raw.githubusercontent.com/iamevs/Password-generator/main/passgen_result.png" alt="result"/>
 
-Enter the length of password u need
-then copy your password
+Enter the length of password u need <br>
+then copy your password <br>
 njoy.......
